@@ -6,6 +6,7 @@ public class git {
 
 	private String nombre;
 	private String apellido;
+	private String DNI;
 
 
 }
